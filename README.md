@@ -51,7 +51,9 @@ MASCOT协议的实现过程大致分为了如下四部分。
 - 在原协议chain-connector设计中，deltampc只兼容了substrate架构的区块链，而在2PM的实现中，不仅保留了原本的区块链连接方式，同时增加了对于诸如scroll等以太坊二层的兼容升级。
 - 在原协议中，并没有涉及到任何区块链上的交易，而本次我们实现了一个公共物品应用层，允许用户进行质押、交易。允许用户发送推理数据到2PM网络，2PM提供了交易验证，并返回推理结果的过程。以此实现了一个去中心化的model as a service（de-maas）。
 
-![image](https://github.com/2PM-Network/2PM-docs/assets/71649294/e9f0456e-53ee-402d-a936-2219b2a7ae65)
+<div align="center">
+  <img src="https://github.com/2PM-Network/2PM-docs/assets/71649294/e9f0456e-53ee-402d-a936-2219b2a7ae65" alt="2PM Network Image">
+</div>
 
 
 ## 合约
