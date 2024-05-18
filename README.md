@@ -60,12 +60,12 @@ MASCOT协议的实现过程大致分为了如下四部分。
 ## 合约
 合约在scroll上进行了部署及验证，地址如下。
 
-| 合约名称 | 地址 |
-| ---- | --------------------|
-| IdentityContract | 0xD4ae737D77C4f8A507e3fF04dAf43ab74fad5E80|
-| HFLContract | 0xAcCC396A91A82d179a430225A2AFA32b5F355b0D |
-| DataHubContract | 0xbd0496CB661C4d0C77638Ce0ac4C7531c9D04C36 |
-| HLRContract | 0x1a7d6cA56e298Fb61a7FC05970B114C225bA09Bb |
-| PlonkVerifier3Contract | 0x1Ac3508022CD3f44579C85268Bc8590fEBd7280B |
+| 合约名称 | 功能 | 地址 |
+| ---- | ------ | --------------------|
+| IdentityContract | 节点身份管理 | 0xD4ae737D77C4f8A507e3fF04dAf43ab74fad5E80 |
+| HFLContract | 横向联邦学习 | 0xAcCC396A91A82d179a430225A2AFA32b5F355b0D |
+| DataHubContract | 节点数据管理 | 0xbd0496CB661C4d0C77638Ce0ac4C7531c9D04C36 |
+| HLRContract | 横向逻辑回归 | 0x1a7d6cA56e298Fb61a7FC05970B114C225bA09Bb |
+| PlonkVerifier3Contract | 验证输入长度 | 0x1Ac3508022CD3f44579C85268Bc8590fEBd7280B |
 
 
