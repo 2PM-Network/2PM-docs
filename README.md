@@ -1,4 +1,4 @@
-# 2PM-docs
+# 2PM-docs [Deck](./2PM-Network.pdf)
 2PM基于[DeltaMPC](https://deltampc.com/)这一基础设施，集成了联邦学习、安全多方计算等多种隐私计算技术。并利用区块链和零知识证明技术，在不获取原始数据的前提下，保证了计算结果的可信性。2P和M分别指的Public，Privacy和Model，旨在为公众提供公共的隐私计算AI模型推理服务网络。
 
 ## 2PM.Network隐私计算系统架构
