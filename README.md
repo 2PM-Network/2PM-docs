@@ -73,5 +73,6 @@ MASCOT协议的实现过程大致分为了如下四部分。
 | DataHubContract | 节点数据管理 | 0xbd0496CB661C4d0C77638Ce0ac4C7531c9D04C36 |
 | HLRContract | 横向逻辑回归 | 0x1a7d6cA56e298Fb61a7FC05970B114C225bA09Bb |
 | PlonkVerifier3Contract | 验证输入长度 | 0x1Ac3508022CD3f44579C85268Bc8590fEBd7280B |
+| StakingContract | 再质押和委托 | 0xd7c402e92971b431f29420597d1d7af6ae103cb1 |
 
 
