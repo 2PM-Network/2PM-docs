@@ -12,6 +12,8 @@ Tasks can be divided into multiple rounds, with each reduce operation marking th
 
 ##### MASCOT Protocol
 
+![ZK Process](./assests/zk_process.png)
+
 In addition to ensuring that all nodes can only obtain the computation results without accessing any other information, we also need to ensure that no one provides malicious data to guarantee the authenticity of the computation results. For this purpose, we use the MASCOT secure multiparty computation protocol (Faster Malicious Arithmetic Secure Computation with Oblivious Transfer).
 
 The implementation of the MASCOT protocol generally involves the following four parts:
@@ -54,4 +56,4 @@ Fully Homomorphic Encryption (FHE) is a powerful technique that allows computati
 
 By integrating FHE into machine learning workflows, we can unlock the full potential of data-driven insights while ensuring robust privacy and security measures.
 
-![ZK Process](./assests/zk_process.png)
+
